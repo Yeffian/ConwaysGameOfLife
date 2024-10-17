@@ -39,6 +39,8 @@ public class World : MonoBehaviour
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Mouse2)) Reset();
+        
+        if (Input.GetKeyDown(KeyCode.Escape)) Application.Quit();
     }
 
     private void OnEnable()

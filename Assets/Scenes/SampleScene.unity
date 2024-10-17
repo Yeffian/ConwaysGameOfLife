@@ -428,11 +428,11 @@ RectTransform:
   m_Father: {fileID: 2140969956}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 459.4, y: 224}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 213.40002, y: 73}
   m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &820858094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -564,7 +564,7 @@ MonoBehaviour:
   nextState: {fileID: 441117810}
   aliveTile: {fileID: 11400000, guid: 95babf88183fc5042bd833d343c153c2, type: 2}
   deadTile: {fileID: 11400000, guid: fe3bebe8e3f0f0645b1cd262dea7cdf0, type: 2}
-  pattern: {fileID: 11400000, guid: 6e2b201c3becaf24dbf2f81ff224e03f, type: 2}
+  pattern: {fileID: 11400000, guid: 88185050b3b191044866042e6f9b9d4d, type: 2}
   updateInterval: 0.05
   iterationText: {fileID: 820858094}
   populationText: {fileID: 1650641193}
@@ -630,11 +630,11 @@ RectTransform:
   m_Father: {fileID: 2140969956}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 458.4, y: 200}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 212.40002, y: 49}
   m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &1650641193
 MonoBehaviour:
   m_ObjectHideFlags: 0
